@@ -1,4 +1,4 @@
-h1>Hi, I'm Danielle Walters!</h1>
+<h1>Hi, I'm Danielle Walters!</h1>
 <h2>Cyber Security Enthusiast</h2>
 <h3>Here are just a few of my Personal Projects & Certifications</h3>
 
