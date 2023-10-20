@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 CyberSecurity Certifications:</h2>
 
-- [IT Essentials]()
+- [IT Essentials](https://drive.google.com/file/d/1PuEJpgUBffiL_ts15dGSvm82XIqHKWl3/view)
 - [Introduction to CyberSecurity](https://drive.google.com/file/d/1jXFvT_BmhzP2cKUJxMZE0hvvmLEryKw9/view)
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
