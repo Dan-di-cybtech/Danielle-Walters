@@ -47,11 +47,14 @@
   - [Funding and Financing - Business Plan](https://drive.google.com/file/d/19SI61Q_O0OhZ_VooWI7IEf13ZQxGX87W/view)
     
       
-<h2>📺Quiz</h2>
+<h2>📺Quizes</h2>
+
+-<b>See below Quizzes</b>
  - [Quiz threats, attacks, and vulnerabilities ](https://drive.google.com/file/d/1uLuxHWegfKt50baJ4IpDhwP9En2D5ZJl/view)
  - [Networking Quiz](https://drive.google.com/file/d/1GSeEndD8VULh7PuEwMuE-GiiHJt6tMmk/view)
  
 <h2> Videos</h2>
+-<b>See below Videos</b>
 - [3 mins video explaining the different areas of Networking: VoIP (Voice Over Internet Protocol)](https://drive.google.com/file/d/1MlLopd36ot5x1DvKBuuhpS14Fz4jCWOs/view)
 - [Installing an Operating System Video - Windows](https://www.youtube.com/watch?v=RrDly8IM9Rc)
 
